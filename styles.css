@@ -190,9 +190,7 @@ margin: 15px 0;
     }
 }
 @media (max-width: 970px) {
-    .icons{
-        display: none;
-    }
+   
     section{
         padding: 0 4%;
     }
@@ -200,6 +198,9 @@ margin: 15px 0;
 @media (max-width: 770px) {
     #menu-icon{
         display: block;
+    }
+     .icons{
+        display: none;
     }
     .navlist{
         position: absolute;
