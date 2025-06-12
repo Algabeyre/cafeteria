@@ -232,7 +232,7 @@ margin: 15px 0;
     }
     .hero{
         grid-template-columns: 1fr;
-        height: auto;
+        height: 100vh;
     }
     .hero-text{
         padding: 130px;
