@@ -74,7 +74,7 @@ header {
     display: none;
 }
 section{
-    padding: 40% 14%;
+    padding: 0 14%;
 }
 .hero{
     position: relative;
@@ -250,7 +250,10 @@ margin: 15px 0;
 }
 @media (max-width: 570px) {
     .hero {
-        height: 100vh;
+        height: auto;
+    }
+    section{
+        padding: 0 4%;
     }
     .hero-img {
          height: 400px;
