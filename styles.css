@@ -261,6 +261,9 @@ margin: 15px 0;
         width: 400px;
         margin: 0 auto;
     }
+    .icons{
+        padding: 0 4%;
+    }
 }
  @media (max-width: 440px) {
     .hero-text h5 {
