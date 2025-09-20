@@ -1,4 +1,4 @@
-is
+youis
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 
@@ -133,6 +133,7 @@ margin: 15px 0;
     font-weight: 500;
     transition: all .6s ease;
     margin-right: 22px;
+    text-decoration: none;
 }
 .btn:hover{
     transform: scale(1.1);
@@ -145,6 +146,7 @@ margin: 15px 0;
     font-size: 28px;
     font-weight: 700;
     color: #fff;
+    text-decoration: none;
 }
 
 .price span{
@@ -285,6 +287,7 @@ margin: 15px 0;
     }
      
  }
+
 
 
 
