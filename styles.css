@@ -32,7 +32,8 @@ header {
     height: auto;
     border-radius: 50%;
     color: white;
-    font-size:20px;
+    font-size:22px;
+    font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -283,6 +284,7 @@ margin: 15px 0;
         padding: 0 4%;
     }
  }
+
 
 
 
