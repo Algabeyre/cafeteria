@@ -202,7 +202,9 @@ margin: 15px 0;
     }
 }
 @media (max-width: 770px) {
-    
+    #menu-icon{
+        display: block;
+    }
      .icons{
         display: none;
     }
@@ -282,11 +284,7 @@ margin: 15px 0;
     }
      
  }
-@media (max-width: 1200px) {
-    #menu-icon {
-        display:block;
-    }
-}
+
 
 
 
