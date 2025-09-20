@@ -33,7 +33,6 @@ header {
     border-radius: 
     color: white;
     font-size:20px;
-    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -284,6 +283,7 @@ margin: 15px 0;
         padding: 0 4%;
     }
  }
+
 
 
 
