@@ -280,10 +280,13 @@ margin: 15px 0;
     .icons{
         padding: 0 4%;
     }
-     #menu-icon{
-         display:block;
-     }
+     
  }
+@media (max-width: 890px) {
+    #menu-icon {
+        display:block;
+    }
+
 
 
 
