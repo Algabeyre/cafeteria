@@ -1,4 +1,4 @@
-youis
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 
@@ -19,7 +19,7 @@ header {
     position: fixed;
     width: 100%;
     top: 0;
-    right: 0;
+    left: 5px;
     z-index: 100;
     padding: 35px 7%;
     display: flex;
@@ -288,6 +288,7 @@ margin: 15px 0;
     }
      
  }
+
 
 
 
